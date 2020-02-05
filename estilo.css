@@ -1,0 +1,34 @@
+#cajacentral{
+    width: 750px;
+    height: 500px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 75px;
+    
+}
+
+.imgn{
+    width: 200px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 30px;
+    border-radius: 30px;
+}
+
+
+.cajatexto{
+    width: 500px;
+    height: 186px;
+    background-color:rgb(200, 200, 200);
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.verde{
+    background-color: rgb(146, 223, 146);
+}
+
+.azul{
+    background-color: rgb(133, 133, 255);
+}

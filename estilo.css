@@ -23,12 +23,13 @@
     float: left;
     margin-top: 30px;
     margin-left: 10px;
+    border-radius: 30px;
 }
 
 .verde{
-    background-color: rgb(146, 223, 146);
+    background-color: rgb(235, 235, 103);
 }
 
 .azul{
-    background-color: rgb(133, 133, 255);
+    background-color: rgb(135, 197, 135);
 }
